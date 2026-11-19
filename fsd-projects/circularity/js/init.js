@@ -40,6 +40,9 @@ var init = function (window) {
     drawCircle();
     drawCircle();
         // TODO 7 : Use a loop to create multiple circles
+for (var i = 0; i < 50; i++) {
+   drawCircle();
+}
 
 
 
